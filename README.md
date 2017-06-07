@@ -5,7 +5,7 @@ I'm still learning Swift 3 (and Cocoa), and decided to practice by making an app
 
 Every 20 minutes, this app will take over your screen for 20 seconds, reminding you to rest your eyes. 
 
-20 seconds every
-20 minutes for
-20/20 vision
+20 seconds every  
+20 minutes for  
+20/20 vision  
 ... That's 2020. 😎
