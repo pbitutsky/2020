@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D27636A1EE789A0002B34E1"
+               BuildableName = "Twenty Twenty.app"
+               BlueprintName = "Twenty Twenty"
+               ReferencedContainer = "container:Twenty Twenty.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D27637B1EE789A0002B34E1"
+               BuildableName = "Twenty TwentyTests.xctest"
+               BlueprintName = "Twenty TwentyTests"
+               ReferencedContainer = "container:Twenty Twenty.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D2763861EE789A0002B34E1"
+               BuildableName = "Twenty TwentyUITests.xctest"
+               BlueprintName = "Twenty TwentyUITests"
+               ReferencedContainer = "container:Twenty Twenty.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2D27636A1EE789A0002B34E1"
+            BuildableName = "Twenty Twenty.app"
+            BlueprintName = "Twenty Twenty"
+            ReferencedContainer = "container:Twenty Twenty.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2D27636A1EE789A0002B34E1"
+            BuildableName = "Twenty Twenty.app"
+            BlueprintName = "Twenty Twenty"
+            ReferencedContainer = "container:Twenty Twenty.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2D27636A1EE789A0002B34E1"
+            BuildableName = "Twenty Twenty.app"
+            BlueprintName = "Twenty Twenty"
+            ReferencedContainer = "container:Twenty Twenty.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
